@@ -1,0 +1,17 @@
+.Search{
+
+}
+
+.Search input{
+  border-radius: 5px;
+  border: 1px solid #b3b3b3;
+  padding: 10px;
+  width: 90%;
+  color: gray;
+  outline: none;
+  margin-bottom: 10px;
+}
+
+.Search .searchBy{
+  margin-top: 40px;
+}

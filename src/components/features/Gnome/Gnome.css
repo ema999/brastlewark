@@ -1,0 +1,20 @@
+.Gnome{
+  padding: 10px;
+  margin: 10px;
+  width: 15vw;
+  display: inline-block;
+  vertical-align: top;
+}
+.Gnome:hover{
+  cursor: pointer;
+  background: #f3f1f1;
+}
+
+.Gnome .head{
+  width: 100%;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-radius: 100%;
+  transform: translate(-114%, 43%);
+}

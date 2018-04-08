@@ -1,0 +1,21 @@
+.PaginatorList{
+
+}
+
+.PaginatorList ul{
+  list-style: none;
+}
+
+.PaginatorList li{
+  border: 1px solid #b9b9b9;
+  display: inline-block;
+  padding: 20px;
+}
+
+.PaginatorList li:hover{
+  cursor: pointer;
+}
+
+.PaginatorList li.active{
+  background: gray;
+}

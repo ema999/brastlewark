@@ -1,0 +1,29 @@
+.GnomeDetail{
+
+}
+.GnomeDetail .Gnome{
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+}
+.GnomeDetail .Gnome:hover{
+  cursor: default;
+}
+
+.GnomeDetail .back{
+  max-width: 60px;
+  float: left;
+  padding: 40px;
+  cursor: pointer;
+}
+.GnomeDetail .detailItem{
+  text-align: left;
+  margin: 20px;
+  font-size: 20px;
+}
+
+.GnomeDetail h3{
+  text-align: left;
+  font-size: 20px;
+  margin: 20px;
+}
